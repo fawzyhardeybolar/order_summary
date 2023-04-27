@@ -1,0 +1,19 @@
+.section2{
+    max-width: 300px;
+    margin: 0 auto;
+    /* border: 2px solid; */
+    background-color: white;
+    /* padding: 0; */
+
+}
+
+.section2 h1{
+    margin: 0;
+    padding: 20px 10px;
+}
+
+.section2 p{
+    margin: 0 auto;
+    padding-bottom: 20px;
+    width: 30ch;
+}

@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  background-image: url(./images/pattern-background-desktop.svg);
+  background-repeat: no-repeat;
+  height: 120vh;
+  background-color: rgb(231, 235, 255);
+}
+
+@media (max-width: 768px) {
+  .App{
+    height: 120vh;
+  }
+}
